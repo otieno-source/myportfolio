@@ -1,0 +1,25 @@
+.container {
+    display: grid;
+    grid-area: 
+    'header header header'
+    'para para para'
+    'textback textback'
+    'footer footer footer'
+    ;
+}
+#header {
+    background-color: black;
+    grid-area: header;
+}
+#textback {
+    background-color: brown;
+    grid-area: textback;
+}
+#para {
+    background-color: bisque;
+    grid-area: para;
+}
+#footer {
+    background-color: rgb(84, 21, 220);
+    grid-area: footer;
+}
