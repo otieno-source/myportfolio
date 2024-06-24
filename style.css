@@ -23,3 +23,6 @@
     background-color: rgb(84, 21, 220);
     grid-area: footer;
 }
+h1 {
+    color: brown;
+}

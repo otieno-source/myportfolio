@@ -1,0 +1,72 @@
+.topnav {
+  display: grid;
+  margin-right: 0%;
+  height: 100%;
+}
+
+#but1 {
+  shape-margin: 5px;
+  border-style: double;
+  width: 15%;
+  font-weight: 400;
+  background-color: rgb(138, 164, 164);
+}
+
+#head1 {
+  font-weight: bolder;
+  color: black;
+}
+#head2 {
+  font-weight: bolder;
+  color: black;
+}
+
+#h3 {
+  color: black;
+}
+
+.maindiv {
+  display: grid;
+  width: 75%;
+  margin-left: 15%;
+}
+
+.maindiv1 {
+  display: grid;
+  background-color: rgb(140, 140, 186);
+  text-align: center;
+  padding: 20px;
+  font-weight: 400;
+}
+.maindiv2 {
+  display: grid;
+  background-color: rgb(231, 15, 58);
+  text-align: center;
+  padding: 20px;
+  font-weight: 400;
+}
+
+.content {
+  overflow: auto;
+  width: 85%;
+  margin-left: 15%;
+}
+
+.content1 {
+  float: left;
+  width: 26%;
+}
+
+.content2 {
+  float: left;
+  width: 26%;
+}
+
+/*hiding tables*/ 
+#infor {
+  display: none;
+}
+
+body {
+  background-color: rgb(238, 219, 219);
+}
